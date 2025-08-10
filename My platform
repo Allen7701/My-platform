@@ -1,5 +1,15 @@
-git init
-git remote add origin https://github.com/YOUR-USERNAME/my-platform.git
-git add .
-git commit -m "Initial commit"
-git push -u origin main
+📁 Zync_Launch_Package
+ ├── 📱 Android/
+ │     └── Zync.apk
+ ├── 💻 Windows/
+ │     └── ZyncInstaller.exe
+ ├── 🌐 Web/
+ │     └── index.html + PWA files
+ ├── 📦 Offline/
+ │     ├── Zync_Offline_Setup.zip
+ │     └── ReadMe.txt
+ ├── 📜 Docs/
+ │     ├── Ownership_Certificate.pdf
+ │     ├── Founder_Rights.pdf
+ │     ├── Security_Policy.pdf
+ │     └── User_Manual.pdf
